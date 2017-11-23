@@ -1,0 +1,3 @@
+[submodule "clean_data"]
+	path = clean_data
+	url = https://github.com/jjvenky/database_test_clean_data.git
